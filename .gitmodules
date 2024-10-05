@@ -1,0 +1,6 @@
+[submodule "Nukkit"]
+	path = Nukkit
+	url = https://github.com/PowerNukkitX/PowerNukkitX
+[submodule "Cloudburst"]
+	path = Cloudburst
+	url = https://github.com/CloudburstMC/Cloudburst
